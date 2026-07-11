@@ -4,7 +4,7 @@ An AI-powered CSV importer that ingests leads from **any** CSV layout — Facebo
 Lead Ads exports, Google Ads exports, sales-team spreadsheets, other CRM
 exports, whatever — and intelligently maps them into GrowEasy's CRM schema.
 
-Built for the GrowEasy Software Developer (Intern )assignment.
+ Built by Isha for the GrowEasy Software Developer Intern assignment.
 
 ## Live demo
 
