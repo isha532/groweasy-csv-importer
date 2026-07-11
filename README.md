@@ -4,14 +4,12 @@ An AI-powered CSV importer that ingests leads from **any** CSV layout — Facebo
 Lead Ads exports, Google Ads exports, sales-team spreadsheets, other CRM
 exports, whatever — and intelligently maps them into GrowEasy's CRM schema.
 
-Built for the GrowEasy Software Developer (Intern / Full-Time) assignment.
-
-**Position applied for:** _Intern / Full-Time_ — set this to whichever you're applying for before submitting.
+Built for the GrowEasy Software Developer (Intern )assignment.
 
 ## Live demo
 
-- Frontend: _add your deployed URL here_
-- Backend: _add your deployed URL here_
+- Frontend:https://groweasy-csv-importer-indol.vercel.app/
+- Backend: https://groweasy-csv-importer-32to.onrender.com
 
 ## How it works
 
@@ -86,8 +84,8 @@ sample-data/  Example CSVs (clean + intentionally messy) for testing
 ```bash
 cd backend
 cp .env.example .env
-# edit .env: AI_PROVIDER=gemini and GEMINI_API_KEY (get a free key at
-# https://aistudio.google.com/apikey — no credit card needed)
+# edit .env: AI_PROVIDER=gemini and GEMINI_API_KEY 
+# https://aistudio.google.com/apikey 
 npm install
 npm run dev        # http://localhost:4000
 ```
